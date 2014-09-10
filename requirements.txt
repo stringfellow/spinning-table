@@ -1,0 +1,4 @@
+ipython
+tornado
+psycopg2
+mokomo
